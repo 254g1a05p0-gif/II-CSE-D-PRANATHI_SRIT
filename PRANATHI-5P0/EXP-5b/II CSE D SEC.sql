@@ -1,6 +1,5 @@
 TRUNCATE table student;
 DESC student;
-
 SELECT * FROM student;
 
 SET SERVEROUTPUT ON;
