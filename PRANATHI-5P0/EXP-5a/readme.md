@@ -83,6 +83,8 @@ END;
 
 ```
 ![output](op-4.png)
+![output](op-5.png)
+![output](op-6.png)
 
 ```
 UPDATE student 
@@ -90,5 +92,5 @@ set marks=60;
 SELECT * FROM student;
 
 ```
-![output](op-5.png)
-![output](op-6.png)
+![output](op-7.png)
+![output](op-8.png)
